@@ -1,0 +1,37 @@
+.project-timeline-card > img {
+  width: 100%;
+  border-radius: 10px;
+}
+.project-calender-card {
+  display: flex;
+  width: 15%;
+}
+
+.project-calender-card > p {
+  margin: 0px;
+  align-self: center;
+  font-weight: bold;
+}
+
+.calender {
+  align-self: center;
+  margin-right: 2%;
+}
+
+* {
+  font-family: 'Roboto';
+}
+
+.project-heading-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-heading-card > h1 {
+  font-size: 2vw;
+  color:  #2b237c;
+}
+.anchor-element {
+  text-decoration: none;
+  color: #0967d2;
+}

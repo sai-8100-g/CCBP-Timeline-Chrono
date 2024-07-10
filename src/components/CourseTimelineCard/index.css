@@ -1,0 +1,18 @@
+ul {
+  display: flex;
+  list-style: none;
+  padding: 0px;
+  flex-wrap: wrap;
+}
+
+ul > li {
+  background-color: aliceblue;
+  text-align: center;
+  margin: 1%;
+  padding: 1% 4%;
+}
+
+.description {
+    font-size: 1.3vw;
+    color: #171f46;
+}
